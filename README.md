@@ -35,5 +35,7 @@
 
 <br />
 <br />
+<br />
+<br />
 
 [![WhymeDuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyme-duh&count_private=true&show_icons=true&theme=dracula)](https://github.com/whyme-duh/github-readme-stats)
