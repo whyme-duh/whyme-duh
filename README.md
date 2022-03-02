@@ -1,6 +1,6 @@
 <!-- # Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 -->
 
-# Hello EVERYONE , I'm Ritik - aka Ritikwithout_H
+# Hello EVERYONE , I'm Ritik - aka whyme-duh
 
 ## I'm a Student, Developer and future to be CEO.
 
