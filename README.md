@@ -11,17 +11,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/#gh-light-mode-only)
-[![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
+
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5nIhKe1ZMPA0pgSLYmTGBA/featured#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC5nIhKe1ZMPA0pgSLYmTGBA/featured#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5nIhKe1ZMPA0pgSLYmTGBA/)
+
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritik-shrestha-5617531b1/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritik-shrestha-5617531b1/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
+
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ritikwithout_h#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ritikwithout_h#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/ritikwithout_h)
+
 
 ### Languages and Tools:
 
@@ -32,7 +32,7 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
-<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" style="padding-right:10px;" />
 <img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" style="padding-right:10px;" />
 <img align="left" alt="virtualbox" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/virtualbox.svg" style="padding-right:10px;" />
