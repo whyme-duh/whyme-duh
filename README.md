@@ -11,16 +11,12 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
-[![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
-
-&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5nIhKe1ZMPA0pgSLYmTGBA/)
-
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
+[![website](./img/instagram-light.svg)](https://instagram.com/ritikwithout_h)
 
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ritikwithout_h)
+
 
 
 ### Languages and Tools:
