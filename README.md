@@ -1,4 +1,3 @@
-<!-- # Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 -->
 
 # Hello EVERYONE , I'm Ritik - aka whyme-duh
 
@@ -11,6 +10,7 @@
 
 ### Connect with me:
 
+[![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
 [![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
 
 &nbsp;&nbsp;
