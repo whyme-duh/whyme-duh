@@ -1,6 +1,10 @@
 
 # Hello EVERYONE , I'm Ritik - aka whyme-duh
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
+</div>
+
 ## I'm a Student, Developer and future to be CEO.
 
 - 🌱 I’m currently learning what I want
