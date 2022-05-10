@@ -1,5 +1,7 @@
 
-# Hello EVERYONE , I'm Ritik - aka whyme-duh
+<div id ="title" align="center">
+  <h2>Hello, I am Ritik Shrestha aka whyme-duh</h2>
+ </div>
 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100" height="100px"/>
