@@ -13,7 +13,17 @@
 - ⚡ Fun fact: Singing and drawing, games are my other passions
 
 ### Connect with me:
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 [![website](./img/globe-light.svg)](https://shrestharitik.pythonanywhere.com/)
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC5nIhKe1ZMPA0pgSLYmTGBA/)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
