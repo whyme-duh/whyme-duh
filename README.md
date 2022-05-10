@@ -4,15 +4,11 @@
  </div>
 
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
 </div>
 
-## I'm a Student, Developer and future to be CEO.
+## I'm a Student, self taught developer and future to be CEO.
 
-- 🌱 I’m currently learning what I want
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: Singing and drawing, games are my other passions
 
 ### Connect with me:
 <div id="badges">
