@@ -4,7 +4,7 @@
  </div>
 
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100" height="100px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="100px"/>
 </div>
 
 ## I'm a Student, Developer and future to be CEO.
