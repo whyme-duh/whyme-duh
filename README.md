@@ -3,9 +3,10 @@
   <h2>Hello, I am Ritik Shrestha aka Whyme-duh 👋</h2>
  </div>
 
- <p>It's me 👉</p>
 
-<div id="header" align="right" >
+<div id="header" align="center" >
+ <p>It's me 👉</p>
+  
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
 </div>
 
