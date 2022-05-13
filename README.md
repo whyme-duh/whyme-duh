@@ -1,13 +1,11 @@
 
-<div id ="title" align="center">
-  <h2>Hello, I am Ritik Shrestha aka whyme-duh 👋</h2>
+<div id ="title" align="left">
+  <h2>Hello, I am Ritik Shrestha aka Whyme-duh 👋</h2>
  </div>
 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
 </div>
-
-## I'm a Student, self taught developer and future to be CEO.
 
 
 ### Connect with me:
@@ -40,7 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
