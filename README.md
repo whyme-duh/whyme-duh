@@ -3,11 +3,17 @@
   <h2>Hello, I am Ritik Shrestha aka Whyme-duh 👋</h2>
  </div>
 
+<table>
+  <tr>
+    <td valign = "top"><p>It's me 👉</p></td>
+    <td valign = "top">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
+    </td>
+      
+</table>
 
-<div id="header" align="center" >
- <p>It's me 👉</p>
+<div id="header" align="center"  >
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
 </div>
 
 
