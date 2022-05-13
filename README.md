@@ -3,7 +3,7 @@
   <h2>Hello, I am Ritik Shrestha aka Whyme-duh 👋</h2>
  </div>
 
-<table>
+<table align="center">
   <tr>
     <td valign = "center"><p>It's me 👉</p></td>
     <td valign = "top">
