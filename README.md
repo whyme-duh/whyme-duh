@@ -9,6 +9,7 @@
     <td valign = "top">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
     </td>
+  </tr>
       
 </table>
 
