@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td valign = "top"><p>It's me 👉</p></td>
+    <td valign = "center"><p>It's me 👉</p></td>
     <td valign = "top">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
     </td>
