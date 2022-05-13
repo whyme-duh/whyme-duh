@@ -6,7 +6,6 @@
 <table align="center">
   <tr>
     <td valign = "center"><p>It's ME 👉 </p>
-      <p>Don't know what I am DOING </p>
     </td>
     <td valign = "top">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
