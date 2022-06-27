@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Ritik aka whyme-duh</h1>
-<h5 align="center">A moody programmer</h3>
+<h5 align="center">A <span style="font-weight:bold;" >moody</span> programmer</h3>
 
 <table align="center">
   <tr>
