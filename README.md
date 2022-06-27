@@ -13,7 +13,7 @@
       
 </table>
 
-- 🔭 I’m currently working on [notes providing website](studynotes.herokuapp.com)
+- 🔭 I’m currently working on [notes providing website](http://studynotesnepal.herokuapp.com/)
 
 - 🌱 I’m currently learning **Django, Flutter**
 
