@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm Ritik aka whyme-duh</h1>
 <h5 align="center">A moody programmer</h3>
 
-<table align="center">
+<table align="center" style="border:1px black;">
   <tr>
     <td valign = "center"><p>It's ME 👉 </p>
     </td>
