@@ -1,8 +1,6 @@
 
-<div id ="title" align="left">
-  <h2>Hello 👋, I am Ritik Shrestha aka Whyme-duh </h2>
-  <h5>A moody programmar</h5>
- </div>
+<h1 align="center">Hi 👋, I'm Ritik aka whyme-duh</h1>
+<h3 align="center">A moody programmer</h3>
 
 <table align="center">
   <tr>
