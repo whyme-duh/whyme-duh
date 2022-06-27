@@ -4,7 +4,7 @@
 
 <table align="center" style="border:1px black;">
   <tr>
-    <td valign = "center"><p>It's ME 👉 </p>
+    <td valign = "center"><p>It's me.. 👉 </p>
     </td>
     <td valign = "top">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
@@ -13,17 +13,16 @@
       
 </table>
 
-- 🔭 I’m currently working on [notes providing app](studynotes.herokuapp.com)
+- 🔭 I’m currently working on [notes providing website](studynotes.herokuapp.com)
 
 - 🌱 I’m currently learning **Django, Flutter**
+
+- 🎰 I want to learn **React, **Socket
 
 - 👨‍💻 All of my projects are available at [https://shrestharitik.pythonanywhere.com/](https://shrestharitik.pythonanywhere.com/)
 
 - ⚡ Fun fact **I am newar but looks like bahun**
 
-<div id="header" align="center"  >
-  
-</div>
 
 
 ### Connect with me:
