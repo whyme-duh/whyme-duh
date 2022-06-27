@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi 👋, I'm Ritik aka whyme-duh</h1>
-<h5 align="center">A moody programmer</h3>
+<h5 align="center">A **moody** programmer</h3>
 
 <table align="center" style="border:1px black;">
   <tr>
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Django, Flutter**
 
-- 🎰 I want to learn **React, **Socket
+- 🎰 I want to learn **React, Socket**
 
 - 👨‍💻 All of my projects are available at [https://shrestharitik.pythonanywhere.com/](https://shrestharitik.pythonanywhere.com/)
 
