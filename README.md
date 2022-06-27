@@ -13,6 +13,14 @@
       
 </table>
 
+- 🔭 I’m currently working on [notes providing app](studynotes.herokuapp.com)
+
+- 🌱 I’m currently learning **Django, Flutter**
+
+- 👨‍💻 All of my projects are available at [https://shrestharitik.pythonanywhere.com/](https://shrestharitik.pythonanywhere.com/)
+
+- ⚡ Fun fact **I am newar but looks like bahun**
+
 <div id="header" align="center"  >
   
 </div>
