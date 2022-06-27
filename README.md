@@ -1,6 +1,7 @@
 
 <div id ="title" align="left">
-  <h2>Hello, I am Ritik Shrestha aka Whyme-duh 👋</h2>
+  <h2>Hello 👋, I am Ritik Shrestha aka Whyme-duh </h2>
+  <h5>A moody programmar</h5>
  </div>
 
 <table align="center">
@@ -8,7 +9,7 @@
     <td valign = "center"><p>It's ME 👉 </p>
     </td>
     <td valign = "top">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="400"/>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
     </td>
   </tr>
       
