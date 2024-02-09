@@ -13,11 +13,11 @@
       
 </table>
 
-- 🔭 I’m currently working on [notes providing website](http://studynotesnepal.herokuapp.com/)
+- 🔭 I’m currently working on [notes providing website](http://csithelper.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **Django, Flutter**
 
-- 🎰 I want to learn **React, Socket** etc
+- 🎰 I want to new things, new tech!
 
 - 👨‍💻 All of my projects are available at [https://shrestharitik.pythonanywhere.com/](https://shrestharitik.pythonanywhere.com/) ( but I have not updated it )
 
