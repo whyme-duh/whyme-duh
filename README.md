@@ -13,28 +13,13 @@
       
 </table>
 
-- 🔭 I’m currently working on [notes providing website](http://csithelper.pythonanywhere.com/)
-
-- 🌱 I’m currently learning **Django, Flutter**
-
-- 🎰 I want to new things, new tech!
-
-- 👨‍💻 All of my projects are available at [https://shrestharitik.pythonanywhere.com/](https://shrestharitik.pythonanywhere.com/) ( but I have not updated it )
-
-- ⚡ Fun fact **I am newar but looks like bahun**
 
 
 
 ### Connect with me:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ritik-shrestha-5617531b1/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
