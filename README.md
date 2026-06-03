@@ -32,8 +32,8 @@ I am a developer passionate about building practical, scalable web applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whyme-duh&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyme-duh&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -41,8 +41,8 @@ I am a developer passionate about building practical, scalable web applications.
 ### 📫 Connect with Me
 
 *   🌐 **Website:** [shrestharitik.com.np](https://shrestharitik.com.np/)
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](#)(https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
-*   📧 **Email:** [Reach out to me](#) (ritikshrestha94@gmail.com)
+*   💼 **LinkedIn:** [Ritik Shrestha] (https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
+*   📧 **Email:** [Reach out to me] (ritikshrestha94@gmail.com)
 
 ---
 <p align="center">
