@@ -1,50 +1,50 @@
+# 👋 Hi, I'm Ritik Lal Shrestha
 
-<h3 align="center">Hi 👋, I'm Ritik aka whyme-duh</h1>
-<h5 align="center">A moody programmer</h3>
+**Software Engineer & Web Developer** based in Kathmandu, Nepal 🇳🇵
 
-<table align="center" style="border:1px black;">
-  <tr>
-    <td valign = "center"><p>It's me.. 👉 </p>
-    </td>
-    <td valign = "top">
-    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
-    </td>
-  </tr>
-      
-</table>
+---
 
+### 👨‍💻 About Me
 
+I am a developer passionate about building practical, scalable web applications. Combining my technical expertise with a background in Business Management (Operations & Accounting), I focus on creating systems that are both highly functional and aligned with real-world business needs.
 
+*   🚀 **Currently building:** **Futsal Finder** (a venue listing and booking platform) and a **Fitness Trainer Management System**.
+*   💻 **Focus areas:** Backend development, cloud infrastructure, and database design.
+*   ⚡ **Beyond the screen:** When I'm not writing code, you can find me playing futsal, keeping up with the stock market, hitting the gym, or taking care of my aquarium.
 
-### Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ritik-shrestha-5617531b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
 
+### 🛠️ Tech Stack & Tools
 
-&nbsp;&nbsp;
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**Infrastructure & Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-### Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### 📊 GitHub Stats
 
-<br />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
-![WhymeDuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyme-duh&count_private=true&show_icons=true&theme=dracula)
-<!--(https://github.com/whyme-duh/github-readme-stats) -->
+---
+
+### 📫 Connect with Me
+
+*   🌐 **Website:** [shrestharitik.com.np](https://shrestharitik.com.np/)
+*   💼 **LinkedIn:** [linkedin.com/in/your-profile](#)(https://www.linkedin.com/in/ritik-shrestha-5617531b1/)
+*   📧 **Email:** [Reach out to me](#) (ritikshrestha94@gmail.com)
+
+---
+<p align="center">
+  <i>Building solutions, one line of code at a time. 🚀</i>
+</p>
