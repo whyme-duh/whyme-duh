@@ -32,7 +32,7 @@ I am a developer passionate about building practical, scalable web applications.
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=whyme-duh)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whyme-duh&theme=default&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=whyme-duh)](https://github.com/FajarKim/github-readme-profile)
 
 ---
 
