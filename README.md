@@ -32,6 +32,7 @@ I am a developer passionate about building practical, scalable web applications.
 ### 📊 GitHub Stats
 
 <p align="center">
+  [![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyme-duh)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=whyme-duh&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyme-duh&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
